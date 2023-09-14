@@ -61,7 +61,7 @@ openapi3 {
 	server = "https://user-app.krampoline.com/k185a74b604dea/api" // List 로 넣을수 있음.
 	title = "KakaoShop API Docs"
 	description = ""
-	version = "0.1.0"
+	version = "1.0.0"
 	format = "json"
 	outputDirectory = 'build/resources/main/static/docs'
 }
